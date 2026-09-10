@@ -1,0 +1,9 @@
+#include<iostrean>
+using namespace std;
+int main(){
+while(true){
+cout<<"LED ON"<<endl;
+cout<<"LED OFF"<<endl;
+}
+return 0;
+}
